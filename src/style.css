@@ -1,0 +1,94 @@
+.ozadje{
+	height: 100%;
+	width: 100%;
+	background-image: url(../slike/zacetna.jpg);
+	background-position: center;
+	background-size: cover;
+	position: absolute;  
+	background-repeat: no-repeat;
+}
+.naslov{
+	font-size: 600%;
+	color: #228B22;
+	text-align: left;
+	margin: 50px;
+}
+.obrazec{
+ 	width: 280px;
+	height: 380px;
+	position: relative;
+	margin: 2% 6% 6% 7%;
+	background: #228B22;
+	padding: 5px;
+}
+.polje{
+	border-style: none;
+	padding: 10px 0;
+	width: 100%;
+	margin: 5px 0;
+	outline: none;
+	
+}
+.btn-registriraj{
+	padding: 10px 20px;
+	cursor: pointer;
+	margin: 20px 100px;
+	background: white;
+	border: 0;
+	outline: none;
+	border-radius: 30px;
+	color: #228B22;
+	font-size: 20px;
+}
+table, th, td {
+  border: 1px solid black;
+}
+th, td {
+  text-align: center;
+}
+
+.vnos{
+	padding: 20px;
+}
+tr:nth-child(even) {
+  background-color: #DCDCDC;
+}
+
+.btn-vnesi{
+	padding: 10px 20px;
+	cursor: pointer;
+	margin-left: 20px;
+	background: #228B22;
+	border: 0;
+	outline: none;
+	border-radius: 30px;
+	color: white;
+	font-size: 20px;
+}
+.float-child {
+    width: 50%;
+    float: left;
+} 
+.obrazec_naslov{
+	text-align: center;
+	color: white;
+}
+.stroski_naslov{
+	text-align: center; 
+	color: #228B22; 
+	margin-top: 20px
+}
+.tabela_vnos{
+	border: solid;
+	margin: auto; 
+	width: 40%;
+}
+.tabela_zgodovina{
+	border: solid;
+	margin: 50px;
+	width: 70%;
+}
+caption{
+	caption-side: top; 
+	text-align: center;
+}

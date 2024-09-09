@@ -78,4 +78,4 @@
 
 ### Access the Application
 
-8. Open your browser and go to [http://localhost/expense-manager](http://localhost/expense-manager).
+8. Open your browser and go to [http://localhost/ExpenseManager/src](http://localhost/ExpenseManager/src).

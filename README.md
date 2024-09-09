@@ -2,7 +2,7 @@
 
 ### Overview
 
-**Expense Manager** is a web-based application designed to help users track their personal or business expenses. It allows users to add, edit, and delete expenses, categorize them, and view expense summaries. The application is built using modern web technologies including **JavaScript**, **PHP**, **HTML**, and **CSS**, with **MariaDB** as the database and runs on **XAMPP** as the local server environment.
+**Expense Manager** is a web-based application designed to help users track their personal or business expenses. 
 
 ---
 

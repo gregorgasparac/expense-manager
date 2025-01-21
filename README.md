@@ -2,7 +2,7 @@
 
 ### Overview
 
-**Expense Manager** is a web-based application designed to help users track their personal or business expenses. 
+**Expense Manager** is a web-based application designed to help users track their personal or business expenses. This app is in slovenian language
 
 ---
 
